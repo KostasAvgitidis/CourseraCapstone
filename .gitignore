@@ -1,2 +1,5 @@
 getkeys.py
 __pycache__/getkeys.cpython-37.pyc
+locations.pkl
+cafes.pkl
+location_cafes.pkl
