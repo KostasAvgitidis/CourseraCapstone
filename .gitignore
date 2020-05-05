@@ -1,8 +1,9 @@
 getkeys.py
 __pycache__/getkeys.cpython-37.pyc
 locations.pkl
-parks.pkl
-location_parks.pkl
-escape_parks.pkl
 __pycache__/getkeys.cpython-36.pyc
 venues.pkl
+arts.pkl
+food.pkl
+nightlife.pkl
+outdoor.pkl
