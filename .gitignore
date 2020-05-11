@@ -1,6 +1,7 @@
 getkeys.py
 __pycache__/getkeys.cpython-37.pyc
 locations.pkl
+roi_locations.pkl
 __pycache__/getkeys.cpython-36.pyc
 venues.pkl
 arts.pkl
