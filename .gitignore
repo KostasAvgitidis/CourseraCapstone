@@ -1,7 +1,6 @@
 getkeys.py
 __pycache__/getkeys.cpython-37.pyc
 locations.pkl
-roi_locations.pkl
 __pycache__/getkeys.cpython-36.pyc
 venues.pkl
 arts.pkl
@@ -9,3 +8,8 @@ food.pkl
 nightlife.pkl
 outdoor.pkl
 .ipynb_checkpoints/The Battle of Neighborhoods - European Youth Capital Winner - Amiens-checkpoint.ipynb
+roi_latitudes.pkl
+roi_longitudes.pkl
+roi_xs.pkl
+roi_ys.pkl
+roi_locations.pkl
